@@ -10,3 +10,7 @@ Add new keywords to the keywords folder as a text file.  Add as many variations 
 OR
 
 Find an existing keyword and add more variations!
+
+## After making changes to bot-lang
+
+After making changes to bot-lang please update commit# in yarn.lock of spoke repo and then push it to master.
